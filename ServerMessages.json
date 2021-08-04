@@ -1,0 +1,42 @@
+[
+  {
+    "MessageType": "FixedTimedMessage",
+    "Enabled": true,
+    "Sender": "Server",
+    "Text": "Save and Restart in 10min, Caution if sailing!",
+    "Time": "05:50", /* When should this message be sent? format: Hour:Minute */
+    "ShowOnHud": true,
+    "HorizontalHudAlignment": "center",
+    "VerticalHudAlignment": "top"
+  },
+  {
+    "MessageType": "FixedTimedMessage",
+    "Enabled": true,
+    "Sender": "Server",
+    "Text": "Save and Restart in 60secs, Caution if sailing!",
+    "Time": "05:59", /* When should this message be sent? format: Hour:Minute */
+    "ShowOnHud": true,
+    "HorizontalHudAlignment": "center",
+    "VerticalHudAlignment": "top"
+  },
+  {
+    "MessageType": "FixedTimedMessage",
+    "Enabled": true,
+    "Sender": "Server",
+    "Text": "Save and Restart in 10min, Caution if sailing!",
+    "Time": "17:50", /* When should this message be sent? format: Hour:Minute */
+    "ShowOnHud": true,
+    "HorizontalHudAlignment": "center",
+    "VerticalHudAlignment": "top"
+  },
+  {
+    "MessageType": "FixedTimedMessage",
+    "Enabled": true,
+    "Sender": "Server",
+    "Text": "Save and Restart in 60secs, Caution if sailing!",
+    "Time": "17:59", /* When should this message be sent? format: Hour:Minute */
+    "ShowOnHud": true,
+    "HorizontalHudAlignment": "center",
+    "VerticalHudAlignment": "top"
+  }
+]
